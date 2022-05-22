@@ -8,4 +8,4 @@ including HTML,CSS,JAVASCRIPT, C ,C++,ReactJs with one year experience.
 
 And React is my Speciality.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saba77zx&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saba77z&theme=radical&show_icons=true)
